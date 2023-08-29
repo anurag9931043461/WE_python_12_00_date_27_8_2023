@@ -1,0 +1,25 @@
+introduction
+comment
+variable
+datatype
+	> int 
+	> float 
+	> string 
+	> list 
+	> tuple 
+	> set 
+	> dictionary 
+	> frozenset 
+	> complex 
+	> boolean
+operator 
+casting
+input()
+conditional programming 
+	>if else
+	> nested if else
+	> if elif else
+	> nested if elif else
+	> ternary operator 
+loop
+ 
