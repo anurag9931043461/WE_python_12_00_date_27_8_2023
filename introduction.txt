@@ -20,6 +20,32 @@ conditional programming
 	> nested if else
 	> if elif else
 	> nested if elif else
+    > pass
 	> ternary operator 
-loop
+loop:
+    > for loop
+        > single for loop 
+        > single for loop for pattern
+        > nested for loop 
+        > nested for loop for pattern
+        > keywords
+            > continue
+            > break
+            > pass
+        > comprehension
+            > list comprehension 
+            > set comprehension 
+            > frozenset comprehension 
+            > tuple comprehension(generator)
+            > dictionary comprehension            
+    > while loop 
+        > single while loop 
+        > single while loop for pattern 
+        > nested while loop 
+        > nested while loop for pattern
+        > keywords
+            > break
+            > continue
+            > pass
+ 
  
